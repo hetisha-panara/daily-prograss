@@ -1,5 +1,11 @@
 # Daily Prograss
 
+## 3-oct-2024
+- Learned JavaScript Tutorial
+- Take Knowlage about:
+1. Server
+2. InterNet Connection
+
 ## 2-oct-2024
 - Learned how to convert:
 1. Binary To Decimale.
