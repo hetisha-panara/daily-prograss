@@ -1,5 +1,9 @@
 # Daily Prograss
 
+## 4-oct-2024
+- 100 day code chalenge
+- Day -1  and  Day-2 
+
 ## 3-oct-2024
 - Learned JavaScript Tutorial
 - Take Knowlage about:
