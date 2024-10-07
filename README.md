@@ -1,8 +1,12 @@
 # Daily Prograss
+## 7-oct-2024
+- Day-7.
+- CSS Box model, Sections,Type of Selector, Block and Inline element.
+
  ## 6-oct-2024
  - Day-5,6.
  - DAY-5:- File organization, Pseudo-selector, QUIZ.
--  DAY-6:- Sematic Elemnts, Conatiner, Cascanding, Inheritance, Specificity, Box model. 
+-  DAY-6:- Sematic Elemnts, Conatiner, Cascanding, Inheritance, Specificity. 
 
 ## 5-oct-2024
 - Day-3,4,5
