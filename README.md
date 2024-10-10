@@ -1,5 +1,10 @@
 # Daily Prograss
 
+## 10-oct-2024
+- Day-11,12
+- Day-11 :- Hosting first website, what is hosting /Deployment,Taking, taking our website online, Git vs GitHub ,CLI vs GUI.
+- Day-12 :- Learn command in command promt.
+
 ## 9-oct-2024
 - Day-9,10
 - Day-9 :- Summary and Practice of previous knowlage.
