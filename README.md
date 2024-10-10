@@ -1,4 +1,15 @@
 # Daily Prograss
+
+## 9-oct-2024
+- Day-9,10
+- Day-9 :- Summary and Practice of previous knowlage.
+- Day-10:- TASK=Build a HTML and CSS Summary webpage. 
+
+
+## 8-oct-2024
+- Day-8
+- Block and Inline Elemnts,Box shadow, CSS Selector, Negetive Margin.
+
 ## 7-oct-2024
 - Day-7.
 - CSS Box model, Sections,Type of Selector, Block and Inline element.
