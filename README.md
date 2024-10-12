@@ -1,5 +1,15 @@
 # Daily Prograss
 
+## 12-oct-2024
+- Day-14,15,16
+- 14:- Summary of day 13 Git VS GitHub.
+- 15:- Bg-images,Flexbox,grid, units
+- 16:- Positioning Elemnts.
+
+## 11-oct-2024
+- Day-12,13
+- 12:- Git installation, About Git, Create new file and Commit Changes.
+- 13:- About GitHub why using GitHub.
 ## 10-oct-2024
 - Day-11,12
 - Day-11 :- Hosting first website, what is hosting /Deployment,Taking, taking our website online, Git vs GitHub ,CLI vs GUI.
