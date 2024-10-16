@@ -1,5 +1,17 @@
 # Daily Prograss
 
+## 16-oct-2024
+- Day-18
+- Complite a webpage.
+- 18:-About Leaniear Gradient, and List style. 
+
+## 15-oct-2024
+- create a  webpage of Travale website. 
+
+## 14-oct-2024
+- Day-17
+- Learn About %, units, nav bar , Absolute and Relative Positioning.
+
 ## 12-oct-2024
 - Day-14,15,16
 - 14:- Summary of day 13 Git VS GitHub.
