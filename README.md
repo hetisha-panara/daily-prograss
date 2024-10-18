@@ -1,5 +1,12 @@
 # Daily Prograss
 
+
+
+## 18-oct-2024
+- Day-19,20
+- 19:- Create Card, CSS grid 
+- 20:- Learned Unicode, Complete the Travale webpage.
+
 ## 17-oct-2024
 - Day-18,19
 - 18:- Using Position static.
