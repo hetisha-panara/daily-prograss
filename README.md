@@ -1,5 +1,10 @@
 # Daily Prograss
 
+## 17-oct-2024
+- Day-18,19
+- 18:- Using Position static.
+- 19:- Make the Card module. Used Obj-fit, overflow,Flex-direction.
+
 ## 16-oct-2024
 - Day-18
 - Complite a webpage.
