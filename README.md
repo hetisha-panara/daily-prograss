@@ -1,6 +1,16 @@
 # Daily Prograss
 
+## 4-nov-2024
+- Day-22
+- About media queries and common break points of it.
+ 
+## 3-nov-2024
+- Day-22
+- about %,em and rem units. 
 
+## 1-nov-2024
+- Day-21
+- what is responcive design,comaparing units.
 
 ## 18-oct-2024
 - Day-19,20
