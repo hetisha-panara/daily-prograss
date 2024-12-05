@@ -1,6 +1,17 @@
 # Daily Prograss
 
 
+## 5-dec-2024
+- Day-24
+- Z-index
+- Create beautiful websites: sizing,spacing,using 
+right fonts,importance of Grey,primary,accent Colors.
+
+## 3-dec-2024
+- Day-23,24
+- 23:action.
+- 24: Target selector ,finish side drawer.
+
 ## 2-dec-2024
 - Day-23
 - Creating Side drawer.
@@ -8,7 +19,7 @@
 ## 30-nov-2024
 - Day-23
 - Hambuerger icon and side drawer,Internal link and
- Target Selector.
+  Target Selector.
 
 ## 7-nov-2024
 - Day-23
