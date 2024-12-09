@@ -1,4 +1,10 @@
 # Daily Prograss
+
+## 9-Dec-2024
+- Day-26,27
+- 26:- Forms, KEY Form Elemnts.
+- 27:- styling the input Type, Diffrent Input type, focus selector, lables.
+ 
 ## 8-dec-2024
 - Day-25
 - CSS Variables, CSS Custom properties, Selectors,  Transformation AND Transition , SVGs.
