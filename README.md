@@ -1,5 +1,7 @@
 # Daily Prograss
-
+## 8-dec-2024
+- Day-25
+- CSS Variables, CSS Custom properties, Selectors,  Transformation AND Transition , SVGs.
 
 ## 5-dec-2024
 - Day-24
