@@ -1,5 +1,9 @@
 # Daily Prograss
 
+## 10-dec-2024
+- Day-28
+- 28:- buttons,validation attributes,dropdown.
+
 ## 9-Dec-2024
 - Day-26,27
 - 26:- Forms, KEY Form Elemnts.
