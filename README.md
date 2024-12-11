@@ -1,5 +1,10 @@
 # Daily Prograss
 
+## 11-dec-2024
+- Day-29,30
+- 29:- CHALLENGE of creating Form.
+- 30:- JavaScript basics, what is JS, featurs,value,variable,script,aarays,objects.
+
 ## 10-dec-2024
 - Day-28
 - 28:- buttons,validation attributes,dropdown.
