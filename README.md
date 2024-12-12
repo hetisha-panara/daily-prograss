@@ -1,5 +1,9 @@
 # Daily Prograss
 
+## 12-dec-2024
+- Day-31
+- easiest way to write  object in  program, functions, fuction parameters, summary of function.
+
 ## 11-dec-2024
 - Day-29,30
 - 29:- CHALLENGE of creating Form.
