@@ -1,5 +1,14 @@
 # Daily Prograss
 
+## 14-dec-2024
+- Day-32,33
+- 32:- QUIZ,summary.
+- 33:- Window,DOM Exploring , select and change DOM element.
+
+## 13-dec-2024
+- Day-32
+- Dynamically Index acceced, mathods, arithmatic operation,using lengh property.
+
 ## 12-dec-2024
 - Day-31
 - easiest way to write  object in  program, functions, fuction parameters, summary of function.
